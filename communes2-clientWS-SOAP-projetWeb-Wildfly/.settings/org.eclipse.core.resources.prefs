@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/fr/gtm/communes/service/Commune.java=UTF-8
+encoding//src/fr/gtm/communes/service/CommuneService.java=UTF-8
+encoding//src/fr/gtm/communes/service/CommuneServiceService.java=UTF-8
+encoding//src/fr/gtm/communes/service/CommuneServiceServiceLocator.java=UTF-8
+encoding//src/fr/gtm/communes/service/CommuneServiceServiceSoapBindingStub.java=UTF-8
+encoding//src/fr/gtm/communes/service/Departement.java=UTF-8
+encoding//src/fr/gtm/communes/service/Region.java=UTF-8
